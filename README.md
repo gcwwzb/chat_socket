@@ -1,5 +1,5 @@
 # chat_socket
-Java_Socket_ChatApplication
+chat_application&file_transfer 
 #### 使用说明
 1. 在Eclipse中先打开并运行chat_socket_server下的server
 2. 再打开并运行（可以运行多个）chat_socket_client
